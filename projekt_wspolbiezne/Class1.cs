@@ -8,7 +8,6 @@ namespace projekt_wspolbiezne
         {
             return a + b;
         }
-
         public double Subtraction(double a, double b)
         {
             return a - b;
